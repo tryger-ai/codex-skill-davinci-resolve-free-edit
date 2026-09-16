@@ -1,0 +1,6 @@
+interface:
+  display_name: "DaVinci Resolve 無料版編集"
+  short_description: "Computer Use で無料版 Resolve の編集・字幕・書き出しを操作"
+  default_prompt: "$davinci-resolve-free-edit を使って、無料版 DaVinci Resolve で指定素材を編集してください。"
+policy:
+  allow_implicit_invocation: true
