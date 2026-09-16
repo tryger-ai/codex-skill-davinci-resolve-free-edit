@@ -14,8 +14,8 @@
 - [ ] 元作者のライセンスまたは必要な利用許諾を確認してPROVENANCE.mdを更新
 - [x] 公開先を `tryger-ai/codex-skill-davinci-resolve-free-edit` に確定
 - [x] GitHubのFork機能で派生関係を作成
-- [ ] Free版のmain反映と読み返し
-- [ ] GitHub上の差分・ファイル・説明を読み返す
+- [x] Free版のmain反映と読み返し
+- [x] GitHub上のファイル・README・公開フォーク表示を確認
 
 ## 実験版として明示する未実施項目
 

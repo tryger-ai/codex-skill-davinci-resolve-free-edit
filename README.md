@@ -58,4 +58,4 @@ Text+ の日英テロップ作成、書式設定、保存、MP4書き出しを1�
 
 修正時は再現条件、期待する動作、実際の動作、確認結果を記録します。Windows/Resolve/Codex/Computer Use の版、UI言語、キーボード設定も添えてください。私有素材・氏名・ローカルの個人パスを含む画像やログは公開しないでください。
 
-変更は [CHANGELOG.md](CHANGELOG.md)、公開前の残作業は [RELEASE-CHECKLIST.md](RELEASE-CHECKLIST.md) に記載しています。
+変更は [CHANGELOG.md](CHANGELOG.md)、継続確認事項は [RELEASE-CHECKLIST.md](RELEASE-CHECKLIST.md) に記載しています。
